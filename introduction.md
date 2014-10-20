@@ -5,3 +5,4 @@ JavaScript is the best
 * Stuff
 * More stuff
 * Perhaps nothing
+* Killing history using git rebase
